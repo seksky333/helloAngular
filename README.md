@@ -1,3 +1,3 @@
 # helloAngular
 
-<img src="images/helloAngular.gif" width="350" height="350">
+<img src="images/helloAngular.gif" width="500" height="350">
