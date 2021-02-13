@@ -1,7 +1,7 @@
 # helloAngular
 
 The aim of this project is to showcase what I have learnt from the following Angular crash course:
-https://www.youtube.com/watch?v=_TLhUCjY9iA publised by DesignCourse 16 Jul 2019
+https://www.youtube.com/watch?v=_TLhUCjY9iA publised by DesignCourse on 16 Jul 2019
 
 The project contains the usage of the following Angular elements:
 * Components / Services
