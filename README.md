@@ -1,3 +1,3 @@
 # helloAngular
 
-<img src="images/ezgif.com-video-to-gif.gif" width="350" height="350">
+<img src="images/helloAngular.gif" width="350" height="350">
